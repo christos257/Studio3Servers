@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/Aspire 5/CIU 212 - Prototype/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
